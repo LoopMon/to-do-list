@@ -1,5 +1,5 @@
 # To-do List
-<img src="public/overview.png">
+<img src="public/overview-dark.png">
 
 ## Tecnologias:
 - HTML
